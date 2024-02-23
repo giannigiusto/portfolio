@@ -4,9 +4,9 @@
   "description": "Data Engineer",
   "repository": {
     "type": "git",
-    "url": "https://github.com/giustogianni/giustogianni.github.io"
+    "url": "https://github.com/giannigiusto/portfolio"
   },
-  "homepage": "https://github.com/giustogianni/giustogianni.github.io",
+  "homepage": "https://github.com/giannigiusto/portfolio",
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp serve --watch",
