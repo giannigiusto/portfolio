@@ -1,0 +1,15 @@
+{
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/node",
+      "config": {
+        "buildCommand": [
+          "gem install jekyll sass bundler jekyll-minifier jekyll-sitemap",
+          "npm install",
+          "npm start"
+        ]
+      }
+    }
+  ]
+}
